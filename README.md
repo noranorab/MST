@@ -1,2 +1,2 @@
-# Minimum spanning tree inspired of Prim's algorithm for a weighted undirected graph
+# Minimum spanning tree inspired by Prim's algorithm for a weighted undirected graph
 The code randomly generates a graph of a given size and density (0,1). It calculates and displayes the MST of the graph whose size and density are provided by user.
